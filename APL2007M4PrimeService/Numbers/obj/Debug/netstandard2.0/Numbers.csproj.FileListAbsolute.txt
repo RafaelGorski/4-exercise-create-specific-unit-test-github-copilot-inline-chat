@@ -1,0 +1,11 @@
+/workspaces/4-exercise-create-specific-unit-test-github-copilot-inline-chat/APL2007M4PrimeService/Numbers/bin/Debug/netstandard2.0/Numbers.deps.json
+/workspaces/4-exercise-create-specific-unit-test-github-copilot-inline-chat/APL2007M4PrimeService/Numbers/bin/Debug/netstandard2.0/Numbers.dll
+/workspaces/4-exercise-create-specific-unit-test-github-copilot-inline-chat/APL2007M4PrimeService/Numbers/bin/Debug/netstandard2.0/Numbers.pdb
+/workspaces/4-exercise-create-specific-unit-test-github-copilot-inline-chat/APL2007M4PrimeService/Numbers/obj/Debug/netstandard2.0/Numbers.csproj.AssemblyReference.cache
+/workspaces/4-exercise-create-specific-unit-test-github-copilot-inline-chat/APL2007M4PrimeService/Numbers/obj/Debug/netstandard2.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/4-exercise-create-specific-unit-test-github-copilot-inline-chat/APL2007M4PrimeService/Numbers/obj/Debug/netstandard2.0/Numbers.AssemblyInfoInputs.cache
+/workspaces/4-exercise-create-specific-unit-test-github-copilot-inline-chat/APL2007M4PrimeService/Numbers/obj/Debug/netstandard2.0/Numbers.AssemblyInfo.cs
+/workspaces/4-exercise-create-specific-unit-test-github-copilot-inline-chat/APL2007M4PrimeService/Numbers/obj/Debug/netstandard2.0/Numbers.csproj.CoreCompileInputs.cache
+/workspaces/4-exercise-create-specific-unit-test-github-copilot-inline-chat/APL2007M4PrimeService/Numbers/obj/Debug/netstandard2.0/Numbers.sourcelink.json
+/workspaces/4-exercise-create-specific-unit-test-github-copilot-inline-chat/APL2007M4PrimeService/Numbers/obj/Debug/netstandard2.0/Numbers.dll
+/workspaces/4-exercise-create-specific-unit-test-github-copilot-inline-chat/APL2007M4PrimeService/Numbers/obj/Debug/netstandard2.0/Numbers.pdb
