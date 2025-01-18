@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Numbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fe3735b040f94cffce39ef7d38ed89c62482f83")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef3e59eccbf2217a3d3207303ec5f34f76ea4faa")]
+>>>>>>> 9fe3735 (sample files)
 [assembly: System.Reflection.AssemblyProductAttribute("Numbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Numbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
